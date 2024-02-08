@@ -1,0 +1,15 @@
+Wookiees
+Gungans
+Royal Naboo
+Trade Federation
+Geonosians
+Confederacy
+Galactic Republic
+Black Sun
+Galactic Empire
+/Rebel Alliance
+/Zann Consortium
+/New Republic
+/Imperial Remnant
+/First Order
+/Resistance

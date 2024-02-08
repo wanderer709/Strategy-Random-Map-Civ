@@ -1,0 +1,130 @@
+Arena
+Asteroids
+Desert
+Flats
+Forced Deployment
+Forest
+Fortress
+Ice Lake
+Islands
+LandMass
+Large Sea
+Motherload
+Nova Assault
+Nova Lake
+Precipice
+Raiders
+Rivers
+Savannah
+Sea
+Shoreline
+Space Mass
+Space Satellites
+Swamp
+Team Islands
+Team Space Satellites
+Tundra
+WaterMass
+Aereen
+Dagobah
+Endor's Moon
+Eredenn
+Geddes
+Geonosis
+Hanoon
+Hoth
+Kashyyyk
+Kessel
+Krant
+Mos Espa
+Naboo
+Reytha
+Sarapin
+Tatooine
+Tatooine (Episode II)
+Yavin IV
+Zaloriis
+[EF] Abregado-Rae
+[EF] Aeten II
+[EF] Ahch-To
+[EF] Ajan Kloss
+[EF] Alaris Prime
+[EF] Alderaan
+[EF] Alzoc III
+[EF] Artus Prime
+[EF] Atoll
+[EF] Baroonda
+[EF] Bestine IV
+[EF] Bimmisaari
+[EF] Bothawui
+[EF] Bpfassh
+[EF] Bryndar
+{EF} Cairn
+[EF] Cato Neimoidia
+[EF] Comet
+[EF] Corvus
+[EF] Crait
+[EF] Cross
+[EF] Dantooine
+{EF} Dosuun
+[EF] Dromund Kaas
+[EF] Endor Moon
+[EF] Felucia
+[EF] Genbara
+[EF] Generis
+[EF] Halm
+[EF] Hideout
+[EF] Hy Izlan
+[EF] Isthmus
+[EF] Jabiim
+[EF] Jakku
+[EF] Jedha
+[EF] Jomark
+[EF] Kordoku
+[EF] Korriban
+[EF] Kothlis
+[EF] Kuat
+[EF] Lah'mu
+[EF] Michi
+[EF] Mimban
+[EF] Mudflow
+[EF] Mustafar
+[EF] Myrkr
+[EF] Nevarro
+[EF] Oasis
+[EF] Obroa-Skai
+[EF] Orchards
+[EF] Pantolomin
+[EF] Pasaana
+[EF] Phindar
+[EF] Pillio
+[EF] Polis Massa
+[EF] Praesitlyn
+[EF] Raxus Prime
+[EF] Rhen Var
+[EF] Rugosa
+[EF] Ruusan
+[EF] Ryloth
+[EF] Saleucami
+[EF] Sarka
+[EF] Scarif
+[EF] Sorgan
+[EF] Space Raiders
+[EF] Starkiller Base
+[EF] Sullust
+[EF] Sulon
+[EF] Swamps of Naboo
+[EF] Taanab
+[EF] Takodana
+[EF] Tangrene
+[EF] Tatooine
+[EF] Tython
+[EF] Ukio
+[EF] Utapau
+[EF] Vergesso
+[EF] Vjun
+[EF] Wasskah
+[EF] Wayland
+[EF] Wistril
+[EF] Wobani
+[EF] Zeffo

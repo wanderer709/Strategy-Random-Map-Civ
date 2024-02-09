@@ -17,7 +17,7 @@ Franks
 /Georgians 960
 Goths
 /Gurjaras 730 Northwest India
-/Hindustanis Pakistan
+Hindustanis
 /Incas 1380
 Italians
 Japanese

@@ -1,9 +1,11 @@
-
 #include <iostream>
 #include <fstream>
 #include <vector>
 #include <string>
 #include "conio.h"
+#include <math.h>
+#include <windows.h>
+#include <unistd.h>
 
 void randomize();
 
@@ -50,10 +52,13 @@ int main()
     std::string mapToPlay = maps[rand() % maps.size()];
     std::string civToPlay;
     std::vector<std::string> civsToPlay;
+    std::string keyForRandom;
 
     for (int i = 0; i < numberOfPlayers; i++)
     {
         randomize();
+        std::cout << "sleepin\n";
+        sleep(rand() % 3 + 1);
         civToPlay = civs[rand() % civs.size()];
         civsToPlay.push_back(civToPlay);
     }
@@ -62,6 +67,7 @@ int main()
 
     for (int i = 0; i < numberOfPlayers; i++)
     {
+        sleep(2);
         std::cout << civsToPlay[i] << "\n";
     }
 
@@ -74,5 +80,4 @@ int main()
 void randomize()
 {
     srand(time(NULL));
-    srand(time(NULL) * rand());
 }

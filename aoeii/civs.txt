@@ -10,13 +10,13 @@ Burgundians
 Byzantines
 Celts AFTER SENUA
 Chinese
-/Cumans 710 North of Caspian
-/Dravidians South India
+/Cumans 710
+/Dravidians
 /Ethiopians
 Franks
 /Georgians 960
 Goths
-/Gurjaras 730 Northwest India
+/Gurjaras 730
 Hindustanis
 /Incas 1380
 Italians
@@ -33,12 +33,12 @@ Persians
 /Poles
 /Portuguese
 Romans
-/Saracens 621
-/Sicilians
+/Saracens
+Sicilians
 /Slavs 500
-/Spanish After Berber Campaign
-/Tatars Uzbekistan
+Spanish After Berber Campaign
+/Tatars
 Teutons
-/Turks 989
-Vietnamese
+Turks 989
+/Vietnamese
 /Vikings

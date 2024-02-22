@@ -1,30 +1,3 @@
-Arena
-Asteroids
-Desert
-Flats
-Forced Deployment
-Forest
-Fortress
-Ice Lake
-Islands
-LandMass
-Large Sea
-Motherload
-Nova Assault
-Nova Lake
-Precipice
-Raiders
-Rivers
-Savannah
-Sea
-Shoreline
-Space Mass
-Space Satellites
-Swamp
-Team Islands
-Team Space Satellites
-Tundra
-WaterMass
 Aereen
 Dagobah
 Endor's Moon
@@ -128,3 +101,11 @@ Zaloriis
 [EF] Wistril
 [EF] Wobani
 [EF] Zeffo
+[EF] Arena
+[EF] Moat Fortress
+[EF] Plateau
+[EF] Desert
+[EF] Team Islands
+[EF] Archipelago
+[EF] Great Sea
+[EF] Caldera
